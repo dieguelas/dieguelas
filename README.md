@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Diego Patrick</h1>
-<h4 align="center">Profissional que nasceu no universo do marketing, mas que se apaixonou pela área de Data Analytics e nela atuo desde 2022. Tenho experiência em visualização de dados (Power BI) e análise de dados com foco em ETL e elaboração de hipóteses (Python, SQL e Excel)</h4>
+<h3 align="center">Profissional que nasceu no universo do marketing, mas que se apaixonou pela área de Data Analytics e nela atuo desde 2022. Tenho experiência em visualização de dados (Power BI) e análise de dados com foco em ETL e elaboração de hipóteses (Python, SQL e Excel)</h3>
 
 - 🌱 Atualmente, estou aprendendo **Data Analytics com as ferramentas SQL, Python e Power BI na escola Alura**
 
