@@ -12,5 +12,5 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align ="esquerda">
 <a href="https://linkedin.com/in/diego-patrick-vieira-oliveira-a9b03b158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego patrick vieira oliveira" altura ="30" width="40" /></a>
-<a href="https://instagram.com/dieguelas" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dieguelas" height="30" width="40" /></a >
+<a href="https://instagram.com/dieguelas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="dieguelas" height="30" width="40" /></a >
 </p>
