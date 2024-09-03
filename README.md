@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou aprendendo **Data Analytics com as ferramentas SQL, Python e Power BI na escola Alura**
 
-- 💬 Me pergunte sobre **Power BI | SQL | ETL | DAX | Pitão | Análise de Dados | Inteligência de Mercado**
+- 💬 Me pergunte sobre **Power BI | SQL | ETL | DAX | Python | Análise de Dados | Inteligência de Mercado**
 
 - 📫 Chegue até mim pelo e-mail **dieguelas95@gmail.com**
 
